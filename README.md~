@@ -1,0 +1,25 @@
+Interface de sélection de points pour mon ami François.
+
+Utilisation
+===========
+
+Il suffit d'ouvrir le fichier `index.html` dans un navigateur récent. L'image
+vidéo doit se trouver dans le répertoire sous le nom `capture.png`. Un exemple
+est fourni.
+
+Développement
+=============
+
+Installation des modules npm:
+
+    npm install
+
+Pour lancer un serveur de développement:
+
+    npm run dev
+
+La page sera alors disponible à http://localhost:8080.
+
+Pour générer le bundle javascript:
+
+    npm run build

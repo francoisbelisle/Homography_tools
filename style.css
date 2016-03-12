@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+#app {
+    margin: 40px 10px;
+    position: relative;
+}
