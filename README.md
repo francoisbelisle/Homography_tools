@@ -44,3 +44,8 @@ To generate the javascript bundle:
 
 ~$ npm run build
 
+Grateful Thanks to : 
+====================
+Eric Mcsween
+Nicolas Saunier
+
