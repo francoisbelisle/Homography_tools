@@ -92,7 +92,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     homography = homography_matrix(args.point_correspondences_filename,
-                                   args.homography_filename)    
+								   save = True,
+                                   homography_filename = args.homography_filename) 
         
 
     
